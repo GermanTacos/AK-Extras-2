@@ -1,0 +1,10 @@
+{
+
+	"bm_wp_wpn_fps_ass_ak_stamp_762_m_pmag_30"  : "30 Round Magpul PMAG",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_m_pmag_20"  : "20 Round Magpul PMAG",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_m_pmag_10"  : "10 Round Magpul PMAG",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_m_palm_30"  : "30 Round US Palm Magazine",
+	
+	"bm_wp_end" : "End"
+	
+}
