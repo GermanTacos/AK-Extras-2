@@ -1,0 +1,6 @@
+<materials version="3" group="weapon_ak12">
+	<material name="mat_bodyback" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP:NORMALMAP_UV1" version="2">
+		<diffuse_texture	 file="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_pistol_grip_flecky_df" />
+		<bump_normal_texture file="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_pistol_grip_std_nm" />
+	</material>
+</materials>

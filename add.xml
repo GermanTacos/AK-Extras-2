@@ -1,5 +1,7 @@
 <AddFiles directory="assets">
 
+	<!-- ATTACHMENTS -->
+
 	<!-- MAG PARTS -->
 	
 	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/mag_pmag_30_std"/>
@@ -9,5 +11,27 @@
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/wpn_fps_ass_ak_all_762_m_pmag_20"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/wpn_fps_ass_ak_all_762_m_pmag_10"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/wpn_fps_ass_ak_all_762_m_palm_30"/>
+	
+	<!-- VARIANTS -->
+	
+	<!-- AKM BAKELITE GRIP -->
+	
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_pistol_grip_std_nm"/>
+	
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_pistol_grip_fleck_df"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_fleck"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_fleck_thq"/>
+	
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_pistol_grip_flecky_df"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_flecky"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_flecky_thq"/>
+	
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_pistol_grip_maadi_df"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_maadi"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_maadi_thq"/>
+	
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_pistol_grip_black_df"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_black"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_black_thq"/>
 
 </AddFiles>
