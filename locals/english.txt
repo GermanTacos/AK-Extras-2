@@ -5,6 +5,15 @@
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_10" : "10 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_palm_30" : "30 Round US Palm Magazine",
 	
+	"bm_w_paint_pg_akm_fleck"	    : "Molot 'Flecked' Red Bakelite Grip",
+	"bm_w_paint_pg_akm_fleck_desc"  : "A sought-after version of the standard AKM grip, praised for the 'fleck' pattern that runs throughout the reddish bakelite. Made by Molot in Vyatskiye Polyany.",
+	"bm_w_paint_pg_akm_flecky"	    : "Romanian 'Flecked' Brown Bakelite Grip",
+	"bm_w_paint_pg_akm_flecky_desc" : "A rarer AKM-style grip from Romania; this particular pattern has a sandy brown color with dark, contrasting flecks throughout.",
+	"bm_w_paint_pg_akm_maadi"	    : "Maadi Blue Bakelite Grip",
+	"bm_w_paint_pg_akm_maadi_desc"  : "Not actually blue, but a black bakelite grip from Egypt that shines blue under light. Extremely rare.",
+	"bm_w_paint_pg_akm_black"	    : "Maadi Black Bakelite Grip",
+	"bm_w_paint_pg_akm_black_desc"  : "A standard black bakelite Maadi grip from Egypt. Differs from polymer grips in weight and texture."
+
 	"bm_wp_end" : "End"
 	
 }
