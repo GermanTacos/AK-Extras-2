@@ -1,5 +1,12 @@
 {
 
+	"menu_l_global_value_ak_pack_2" : "This is an AK Pack 2 item!",
+	
+	"bm_menu_stock_position"        : "Stock Position",
+	"bm_menu_stock_position_plural" : "Stock Positions",
+
+	"bm_wp_wpn_fps_ass_ak_all_stp_folded" : "Folded Stock",
+	
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_30" : "30 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_20" : "20 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_10" : "10 Round Magpul PMAG",
