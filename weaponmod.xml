@@ -11,6 +11,11 @@
 			<wpn_fps_ass_ak_stamp_545_st_uf_ak74m	unit="units/mods/weapons/wpn_fps_ass_ak_stamp_545_ak74m_pts/wpn_fps_ass_ak_stamp_545_st_f_ak74m"/>
 			<wpn_fps_ass_ak_stamp_556_st_uf_ak101	unit="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_st_f_ak101"/>
 		</override>
+		<weapons>
+			<value_node value="wpn_fps_ass_ak_stamp_762"/>
+			<value_node value="wpn_fps_ass_ak_stamp_545"/>
+			<value_node value="wpn_fps_ass_ak_stamp_556"/>
+		</weapons>
 		<pcs/>
 	</WeaponMod>
 	

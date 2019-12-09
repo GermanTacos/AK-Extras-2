@@ -2,7 +2,7 @@
 
 	<Localization directory="locals" default="english.txt"/>
 	
-	<GlobalValue id="ak_extra_2" color="Color(1, 0.522, 0.106)"/>
+	<GlobalValue id="ak_pack_2" color="Color(1, 0.522, 0.106)"/>
 	
 <!--<AssetUpdates id="00000" version="1.0" provider="modworkshop"/>-->
 	
