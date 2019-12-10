@@ -1,4 +1,4 @@
-<table name="AK-Extras-2" priority="7" image="guis/ak-extra-2" color="Color(0.8, 0.2, 0.8)">
+<table name="AK-Extras-2" priority="2" image="guis/ak-extra-2" color="Color(0.8, 0.2, 0.8)">
 
 	<Localization directory="locals" default="english.txt"/>
 	

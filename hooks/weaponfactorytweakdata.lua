@@ -97,6 +97,22 @@ ak_variants_poly = {
 	"sand"
 }
 
+--=========================--
+--      COMPATIBILITY      --
+--=========================--
+
+if BeardLib.Utils:FindMod("AKM") then
+	table.insert(ak_variants_bake, "akm")
+end
+
+if BeardLib.Utils:FindMod("AK-74") then
+	table.insert(ak_variants_bake, "ak74")
+end
+
+--=========================--
+--          SETUP          --
+--=========================--
+
 self:akpack2_setup_variants( "pg", ak_grips_bake, "akm", ak_variants_bake )
 
 end)
