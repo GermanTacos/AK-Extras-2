@@ -2,10 +2,59 @@
 
 	"menu_l_global_value_ak_pack_2" : "This is an AK Pack 2 item!",
 	
-	"bm_menu_stock_position"        : "Stock Position",
-	"bm_menu_stock_position_plural" : "Stock Positions",
+	"bm_menu_stock_position"         : "Stock Position",
+	"bm_menu_stock_position_plural"  : "Stock Positions",
+	"bm_menu_handguard" 			 : "Handguard",
+	"bm_menu_handguard_plural" 		 : "Handguards",
+	"bm_menu_handguard_extra" 		 : "Handguard Extension",
+	"bm_menu_handguard_extra_plural" : "Handguard Extensions",
 
 	"bm_wp_wpn_fps_ass_ak_all_stp_folded" : "Folded Stock",
+	
+	"bm_wp_wpn_fps_ass_ak_all_lhg_zhukov" : "Magpul Zhukov Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_uhg_zhukov" : "Magpul Zhukov Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_lhg_moe" 	  : "Magpul MOE Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_uhg_moe" 	  : "Magpul MOE Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_lhg_caa" 	  : "CAA RS47-SET Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_uhg_caa" 	  : "CAA RS47-SET Upper Handguard",
+	
+	"bm_wp_wpn_fps_ass_ak_all_lhg_ak200"  : "AK-200 Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_lhg_b10"	  : "ZenitCo B10 Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_lhg_b10m"	  : "ZenitCo B10M Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_lhg_hex"	  : "Hexagon Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_lhg_tdi"	  : "TDI AKML Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_lhg_vent"	  : "Troy BattleRail Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_lhg_vs24"	  : "VS-24 Lower Handguard",
+	
+	"bm_wp_wpn_fps_ass_ak_all_uhg_b19"    : "ZenitCo B19 Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_uhg_swiss"  : "Khyber Customs Swiss Grater Upper Handguard",
+	
+	"bm_wp_wpn_fps_ass_ak_all_hg_trax"    : "Strike Industries TRAX 1 Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_hg_cmrd"    : "VLTOR CMRD Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_hg_ufm"     : "Krebs UFM Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_hg_heat"    : "545 Design Red Heat 'Aggressor' Handguard",
+	
+	"bm_wp_wpn_fps_ass_ak_all_hge_trax"   : "Strike Industries TRAX 2 Handguard Extension",
+	
+	"bm_wp_wpn_fps_ass_ak_all_pg_ak12"    : "AK-12 Pistol Grip",
+	"bm_wp_wpn_fps_ass_ak_all_pg_mg47"    : "KGB MG47 Pistol Grip",
+	"bm_wp_wpn_fps_ass_ak_all_pg_moe"     : "Magpul MOE Pistol Grip",
+	"bm_wp_wpn_fps_ass_ak_all_pg_palm"    : "US Palm Pistol Grip",
+	"bm_wp_wpn_fps_ass_ak_all_pg_rk3"     : "ZenitCo RK-3 Pistol Grip",
+	"bm_wp_wpn_fps_ass_ak_all_pg_saw"     : "Tapco SAW Pistol Grip",
+	"bm_wp_wpn_fps_ass_ak_all_pg_strike"  : "Strike Industries Enhanced Pistol Grip",
+	
+	"bm_wp_wpn_fps_ass_ak_all_st_zhukov"  : "Magpul Zhukov Stock",
+	
+	"bm_wp_wpn_fps_ass_ak_all_dc_awoo"	  : "Texas Battle Systems 'Dog Leg' Dust Cover",
+	"bm_wp_wpn_fps_ass_ak_all_dc_b33"	  : "ZenitCo B33 Dust Cover",
+	"bm_wp_wpn_fps_ass_ak_all_dc_bastion" : "AKademia Bastion Dust Cover",
+	"bm_wp_wpn_fps_ass_ak_all_dc_pdc" 	  : "FAB Defense PDC Dust Cover",
+	
+	"bm_wp_wpn_fps_ass_ak_all_gt_troy"    : "Troy BattleRail Gas Tube",
+	"bm_wp_wpn_fps_ass_ak_all_gt_m1b"     : "UltiMAK M1-B Gas Tube",
+	"bm_wp_wpn_fps_ass_ak_all_gt_vs33"    : "VS-33 Gas Tube",
+	"bm_wp_wpn_fps_ass_ak_all_gt_vs33c"   : "VS-33c Gas Tube",
 	
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_30" : "30 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_20" : "20 Round Magpul PMAG",

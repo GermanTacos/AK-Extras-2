@@ -1,0 +1,6 @@
+<materials version="3" group="weapon_ak12">
+	<material name="mat_bodyback" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:NORMALMAP_UV1" version="2">
+		<diffuse_texture 	 file="units/mods/weapons/wpn_fps_ass_ak_all_barrel_pts/m1b_gas_tube_std_df" mip="1"/>
+		<bump_normal_texture file="units/mods/weapons/wpn_fps_ass_ak_all_barrel_pts/m1b_gas_tube_std_nm" mip="1"/>
+	</material>
+</materials>
