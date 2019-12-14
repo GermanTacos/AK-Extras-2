@@ -4,22 +4,22 @@
 	
 	<!-- HANDGUARDS -->
 	
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/ak200_handguard_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/b10_handguard_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/b10m_handguard_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/caa_handguard_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/cmrd_handguard_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/heat_handguard_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/hex_handguard_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/moe_handguard_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/swiss_handguard_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/tdi_handguard_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/trax1_handguard_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/trax2_handguard_std"/>
-	<!-- <df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/trax_mount_handguard_std"/> -->
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/ufm_handguard_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/vs24_handguard_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/zhukov_handguard_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/ak200_handguard_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/b10_handguard_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/b10m_handguard_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/caa_handguard_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/cmrd_handguard_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/heat_handguard_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/hex_handguard_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/moe_handguard_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/swiss_handguard_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/tdi_handguard_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/trax1_handguard_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/trax2_handguard_std"/>
+	<!-- <df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/trax_mount_handguard_std"/> -->
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/ufm_handguard_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/vs24_handguard_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/zhukov_handguard_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/wpn_fps_ass_ak_all_hg_cmrd"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/wpn_fps_ass_ak_all_hg_heat"/>
@@ -45,13 +45,13 @@
 	
 	<!-- GRIPS -->
 	
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/ak12_pistol_grip_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/mg47_pistol_grip_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/moe_pistol_grip_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/palm_pistol_grip_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/rk3_pistol_grip_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/saw_pistol_grip_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/strike_pistol_grip_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/ak12_pistol_grip_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/mg47_pistol_grip_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/moe_pistol_grip_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/palm_pistol_grip_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/rk3_pistol_grip_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/saw_pistol_grip_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/strike_pistol_grip_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/wpn_fps_ass_ak_all_pg_ak12"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/wpn_fps_ass_ak_all_pg_mg47"/>
@@ -63,15 +63,15 @@
 	
 	<!-- STOCKS -->
 	
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/zhukov_stock_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/zhukov_stock_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_st_zhukov"/>
 	
 	<!-- GAS BLOCKS -->
 	
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_barrel_pts/m1b_gas_tube_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_barrel_pts/troy_gas_tube_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_barrel_pts/vs33c_gas_tube_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_barrel_pts/m1b_gas_tube_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_barrel_pts/troy_gas_tube_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_barrel_pts/vs33c_gas_tube_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_barrel_pts/wpn_fps_ass_ak_all_gt_m1b"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_barrel_pts/wpn_fps_ass_ak_all_gt_troy"/>
@@ -80,10 +80,10 @@
 	
 	<!-- DUST COVERS -->
 	
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/awoo_dust_cover_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/b33_dust_cover_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/bastion_dust_cover_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/pdc_dust_cover_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/awoo_dust_cover_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/b33_dust_cover_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/bastion_dust_cover_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/pdc_dust_cover_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/wpn_fps_ass_ak_all_dc_awoo"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/wpn_fps_ass_ak_all_dc_b33"/>
@@ -92,16 +92,16 @@
 	
 	<!-- SIGHTS -->
 	
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/akmb_sight_rear_std"/>
-	<!-- <df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/tula_sight_rear_std"/> -->
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/akmb_sight_rear_std"/>
+	<!-- <df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/tula_sight_rear_std"/> -->
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/wpn_fps_ass_ak_all_ro_akmb"/>
 	<!-- <unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/wpn_fps_ass_ak_all_ro_tt01"/> -->
 	
 	<!-- MAG PARTS -->
 	
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/mag_pmag_30_std"/>
-	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/mag_palm_30_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/mag_pmag_30_std"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/mag_palm_30_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/wpn_fps_ass_ak_all_762_m_pmag_30"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/wpn_fps_ass_ak_all_762_m_pmag_20"/>
