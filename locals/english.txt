@@ -69,6 +69,9 @@
 	"bm_w_paint_pg_akm_maadi_desc"  : "Not actually blue, but a black bakelite grip from Egypt that shines blue under light. Extremely rare.",
 	"bm_w_paint_pg_akm_black"	    : "Maadi Black Bakelite Grip",
 	"bm_w_paint_pg_akm_black_desc"  : "A standard black bakelite Maadi grip from Egypt. Differs from polymer grips in weight and texture."
+	
+	"bm_w_paint_st_akm_romyg"	    : "Romanian 'Garda' Stock",
+	"bm_w_paint_st_akm_romyg_desc"  : "A stock taken from a PM md.63 Gardă. Originally produced for Romanian Patriotic Guards, these stocks are recognizable by the black painted strip along the back."
 
 	"bm_wp_end" : "End"
 	

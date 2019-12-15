@@ -57,6 +57,14 @@ ak_grips_poly = {
 	-- "wpn_fps_lmg_ak_stamp_556_pg_rpk201"
 }
 
+ak_stocks_akm = {
+	"wpn_fps_ass_ak_stamp_762_st_akm"
+}
+
+ak_variants_wood = {
+	"romyg"
+}
+
 ak_stocks_poly = {
 	"wpn_fps_ass_ak_stamp_762_st_ak103",
 	"wpn_fps_ass_ak_stamp_545_st_ak74m",
@@ -114,5 +122,6 @@ end
 --=========================--
 
 self:akpack2_setup_variants( "pg", ak_grips_bake, "akm", ak_variants_bake )
+self:akpack2_setup_variants( "st", ak_stocks_akm, "akm", ak_variants_wood )
 
 end)
