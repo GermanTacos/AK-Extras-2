@@ -21,7 +21,7 @@
 	"bm_wp_wpn_fps_ass_ak_all_lhg_ak200"  : "AK-200 Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_lhg_b10"	  : "ZenitCo B10 Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_lhg_b10m"	  : "ZenitCo B10M Lower Handguard",
-	"bm_wp_wpn_fps_ass_ak_all_lhg_hex"	  : "Hexagon Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_lhg_hex"	  : "Hexagon Tactical Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_lhg_tdi"	  : "TDI AKML Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_lhg_vent"	  : "Troy BattleRail Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_lhg_vs24"	  : "VS-24 Lower Handguard",
@@ -60,6 +60,8 @@
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_20" : "20 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_10" : "10 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_palm_30" : "30 Round US Palm Magazine",
+	
+	"bm_wp_wpn_fps_ass_ak_all_545_m_pmag_30" : "30 Round Magpul PMAG",
 	
 	"bm_w_paint_pg_akm_fleck"	    : "Molot 'Flecked' Red Bakelite Grip",
 	"bm_w_paint_pg_akm_fleck_desc"  : "A sought-after version of the standard AKM grip, praised for the 'fleck' pattern that runs throughout the reddish bakelite. Made by Molot in Vyatskiye Polyany.",
