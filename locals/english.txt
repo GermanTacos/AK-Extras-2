@@ -18,6 +18,8 @@
 	
 	"bm_wp_wpn_fps_ass_ak_all_545_md_jet"   : "SRVV Jet Muzzle Brake",
 	
+	"bm_wp_wpn_fps_ass_ak_all_ro_tt01" : "Tula TT01 Railed Rear Iron Sight",
+	
 	"bm_wp_wpn_fps_ass_ak_all_lhg_zhukov" : "Magpul Zhukov Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_uhg_zhukov" : "Magpul Zhukov Upper Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_lhg_moe" 	  : "Magpul MOE Lower Handguard",

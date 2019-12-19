@@ -106,11 +106,9 @@
 	
 	<!-- SIGHTS -->
 	
-	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/akmb_sight_rear_std"/>
-	<!-- <df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/tula_sight_rear_std"/> -->
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/tt01_sight_rear_std"/>
 	
-	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/wpn_fps_ass_ak_all_ro_akmb"/>
-	<!-- <unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/wpn_fps_ass_ak_all_ro_tt01"/> -->
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/wpn_fps_ass_ak_all_ro_tt01"/>
 	
 	<!-- MAG PARTS -->
 	

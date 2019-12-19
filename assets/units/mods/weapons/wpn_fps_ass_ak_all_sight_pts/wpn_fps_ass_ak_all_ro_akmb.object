@@ -1,6 +1,0 @@
-<dynamic_object>
-	<diesel materials="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/wpn_fps_ass_ak_all_ro_akmb" orientation_object="rp_wpn_fps_ass_flint_body_receiver" />
-	<graphics>
-		<object name="g_body" enabled="true" />
-	</graphics>
-</dynamic_object>
