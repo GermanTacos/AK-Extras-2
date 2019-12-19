@@ -2,6 +2,20 @@
 
 	<!-- ATTACHMENTS -->
 	
+	<!-- MUZZLES -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/dtk1_muzzle_brake_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/dyna_muzzle_brake_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/fhmb_muzzle_brake_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/venom_muzzle_brake_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_545_muzzle_pts/jet_muzzle_brake_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/wpn_fps_ass_ak_all_762_md_dtk1"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/wpn_fps_ass_ak_all_762_md_dyna"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/wpn_fps_ass_ak_all_762_md_fhmb"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/wpn_fps_ass_ak_all_762_md_venom"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_545_muzzle_pts/wpn_fps_ass_ak_all_762_md_jet"/>
+	
 	<!-- HANDGUARDS -->
 	
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/ak200_handguard_std"/>
