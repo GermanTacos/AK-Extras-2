@@ -150,9 +150,23 @@
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_black"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_black_thq"/>
 	
-	<!-- ROMY G STOCK -->
+	<!-- AKM HANDGUARD -->
+	
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_handguard_std_nm"/>
+	
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_handguard_hue_df"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_lhg_akm_hue"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_lhg_akm_hue_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_uhg_akm_hue"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_uhg_akm_hue_thq"/>
+	
+	<!-- AKM STOCK -->
 	
 	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_stock_std_nm"/>
+	
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_stock_hue_df"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_st_akm_hue"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_st_akm_hue_thq"/>
 	
 	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_stock_romyg_df"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_st_akm_romyg"/>

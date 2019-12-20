@@ -36,6 +36,18 @@ ak_parts_pg_bake = {
 	"wpn_fps_ass_ak_stamp_545_pg_ak74"
 }
 
+ak_parts_lhg_akm = {
+	"wpn_fps_ass_ak_stamp_762_lhg_akm"
+}
+
+ak_parts_uhg_akm = {
+	"wpn_fps_ass_ak_stamp_762_uhg_akm"
+}
+
+ak_parts_st_akm = {
+	"wpn_fps_ass_ak_stamp_762_st_akm"
+}
+
 ak_parts_pg_poly = {
 	"wpn_fps_ass_ak_stamp_762_pg_ak103",
 	"wpn_fps_ass_ak_stamp_545_pg_ak74m",
@@ -54,9 +66,6 @@ ak_parts_uhg_poly = {
 	"wpn_fps_ass_ak_stamp_556_uhg_ak101"
 }
 
-ak_parts_st_akm = {
-	"wpn_fps_ass_ak_stamp_762_st_akm"
-}
 
 ak_parts_st_poly = {
 	"wpn_fps_ass_ak_stamp_762_st_uf_ak103",
@@ -74,7 +83,12 @@ ak_variants_pg_bake = {
 	"black"
 }
 
+ak_variants_hg_akm = {
+	"hue"
+}
+
 ak_variants_st_akm = {
+	"hue",
 	"romyg"
 }
 
@@ -102,6 +116,8 @@ end
 --=========================--
 
 self:akpack2_setup_variants( "pg", ak_parts_pg_bake, "akm", ak_variants_pg_bake )
+self:akpack2_setup_variants( "lhg", ak_parts_lhg_akm, "akm", ak_variants_hg_akm )
+self:akpack2_setup_variants( "uhg", ak_parts_uhg_akm, "akm", ak_variants_hg_akm )
 self:akpack2_setup_variants( "st", ak_parts_st_akm, "akm", ak_variants_st_akm )
 
 end)

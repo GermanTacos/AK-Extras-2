@@ -81,6 +81,13 @@
 	"bm_w_paint_pg_akm_black"	    : "Maadi Black Bakelite Grip",
 	"bm_w_paint_pg_akm_black_desc"  : "A standard black bakelite Maadi grip from Egypt. Differs from polymer grips in weight and texture."
 	
+	"bm_w_paint_lhg_akm_hue"	    : "Saturated AKM Lower Handguard",
+	"bm_w_paint_lhg_akm_hue_desc"  	: "Standard AKM Handguard with saturated finish."
+	"bm_w_paint_uhg_akm_hue"	    : "Saturated AKM Upper Handguard",
+	"bm_w_paint_uhg_akm_hue_desc"  	: "Standard AKM Handguard with saturated finish."
+	
+	"bm_w_paint_st_akm_hue"	    	: "Saturated AKM Stock",
+	"bm_w_paint_st_akm_hue_desc"  	: "Standard AKM Stock with saturated finish."
 	"bm_w_paint_st_akm_romyg"	    : "Romanian 'Garda' Stock",
 	"bm_w_paint_st_akm_romyg_desc"  : "A stock taken from a PM md.63 Gardă. Originally produced for Romanian Patriotic Guards, these stocks are recognizable by the black painted strip along the back."
 
