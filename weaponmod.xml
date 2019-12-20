@@ -377,6 +377,14 @@
 	<!-- DUST COVERS -->
 	
 	<WeaponMod id="wpn_fps_ass_ak_all_dc_awoo"			based_on="wpn_fps_ass_flint_body_upperreceiver" type="dust_cover"		unit="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/wpn_fps_ass_ak_all_dc_awoo" 	 	texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+		<override>
+			<wpn_fps_ass_ak_stamp_762_ro_akm	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_545_ro_ak74 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_545_ro_ak101 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+		</override>
+		<forbids>
+			<value_node value="wpn_fps_ass_ak_stamp_762_ro_akmb"/>
+		</forbids>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
@@ -386,6 +394,9 @@
 	</WeaponMod>
 	
 	<WeaponMod id="wpn_fps_ass_ak_all_dc_b33"			based_on="wpn_fps_ass_flint_body_upperreceiver" type="dust_cover"		unit="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/wpn_fps_ass_ak_all_dc_b33" 	 	texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+		<requires>
+			<value_node value="wpn_fps_ass_ak_all_lhg_b10m"/>
+		</requires>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
@@ -395,6 +406,15 @@
 	</WeaponMod>
 	
 	<WeaponMod id="wpn_fps_ass_ak_all_dc_bastion"		based_on="wpn_fps_ass_flint_body_upperreceiver" type="dust_cover"		unit="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/wpn_fps_ass_ak_all_dc_bastion"	 	texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+		<override>
+			<wpn_fps_ass_ak_stamp_762_ro_akm	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_545_ro_ak74 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_545_ro_ak101 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+		</override>
+		<forbids>
+			<value_node value="wpn_fps_ass_ak_stamp_762_ro_akmb"/>
+			<value_node value="wpn_fps_ass_ak_all_ro_tt01"/>
+		</forbids>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
