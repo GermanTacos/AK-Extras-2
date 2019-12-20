@@ -29,76 +29,56 @@ Hooks:PostHook( WeaponFactoryTweakData, "init", "AKExtras2Init", function(self)
 --          ARRAYS         --
 --=========================--
 
-ak_grips_bake = {
+--==========PARTS==========--
+
+ak_parts_pg_bake = {
 	"wpn_fps_ass_ak_stamp_762_pg_akm",
 	"wpn_fps_ass_ak_stamp_545_pg_ak74"
-	-- "wpn_fps_sho_ak_stamp_366_pg_vpo209",
-	-- "wpn_fps_lmg_ak_stamp_545_pg_rpk74",
-	-- "wpn_fps_ass_ak_krink_762_pg_akmsu",
-	-- "wpn_fps_ass_ak_krink_545_pg_aks74u"
 }
 
-ak_variants_bake = {
+ak_parts_pg_poly = {
+	"wpn_fps_ass_ak_stamp_762_pg_ak103",
+	"wpn_fps_ass_ak_stamp_545_pg_ak74m",
+	"wpn_fps_ass_ak_stamp_556_pg_ak101"
+}
+
+ak_parts_lhg_poly = {
+	"wpn_fps_ass_ak_stamp_762_lhg_ak103",
+	"wpn_fps_ass_ak_stamp_545_lhg_ak74m",
+	"wpn_fps_ass_ak_stamp_556_lhg_ak101"
+}
+
+ak_parts_uhg_poly = {
+	"wpn_fps_ass_ak_stamp_762_uhg_ak103",
+	"wpn_fps_ass_ak_stamp_545_uhg_ak74m",
+	"wpn_fps_ass_ak_stamp_556_uhg_ak101"
+}
+
+ak_parts_st_akm = {
+	"wpn_fps_ass_ak_stamp_762_st_akm"
+}
+
+ak_parts_st_poly = {
+	"wpn_fps_ass_ak_stamp_762_st_uf_ak103",
+	"wpn_fps_ass_ak_stamp_545_st_uf_ak74m",
+	"wpn_fps_ass_ak_stamp_545_st_ak74_poly",
+	"wpn_fps_ass_ak_stamp_556_st_uf_ak101"
+}
+
+--=========VARIANTS========--
+
+ak_variants_pg_bake = {
 	"fleck",
 	"flecky",
 	"maadi",
 	"black"
 }
 
-ak_grips_poly = {
-	"wpn_fps_ass_ak_stamp_762_pg_ak103",
-	"wpn_fps_ass_ak_stamp_545_pg_ak74m",
-	"wpn_fps_ass_ak_stamp_556_pg_ak101"
-	-- "wpn_fps_smg_ak_stamp_919_pg_vityaz",
-	-- "wpn_fps_smg_ak_stamp_918_pg_bizon",
-	-- "wpn_fps_sho_ak_stamp_12g_pg_saiga12",
-	-- "wpn_fps_lmg_ak_stamp_762_pg_rpk203",
-	-- "wpn_fps_lmg_ak_stamp_545_pg_rpk74m",
-	-- "wpn_fps_lmg_ak_stamp_556_pg_rpk201"
-}
-
-ak_stocks_akm = {
-	"wpn_fps_ass_ak_stamp_762_st_akm"
-}
-
-ak_variants_wood = {
+ak_variants_st_akm = {
 	"romyg"
 }
 
-ak_stocks_poly = {
-	"wpn_fps_ass_ak_stamp_762_st_ak103",
-	"wpn_fps_ass_ak_stamp_545_st_ak74m",
-	"wpn_fps_ass_ak_stamp_545_st_ak74_poly",
-	"wpn_fps_ass_ak_stamp_556_st_ak101"
-	-- "wpn_fps_sho_ak_stamp_12g_st_saiga12k",
-	-- "wpn_fps_lmg_ak_stamp_762_st_rpk203",
-	-- "wpn_fps_lmg_ak_stamp_545_st_rpk74m",
-	-- "wpn_fps_lmg_ak_stamp_556_st_rpk201"
-}
-
-ak_handguards_lower_poly = {
-	"wpn_fps_ass_ak_stamp_762_lhg_ak103",
-	"wpn_fps_ass_ak_stamp_545_lhg_ak74m",
-	"wpn_fps_ass_ak_stamp_556_lhg_ak101"
-	-- "wpn_fps_smg_ak_stamp_919_lhg_vityaz",
-	-- "wpn_fps_smg_ak_stamp_918_lhg_bizon",
-	-- "wpn_fps_sho_ak_stamp_12g_lhg_saiga12",
-	-- "wpn_fps_lmg_ak_stamp_762_lhg_rpk203",
-	-- "wpn_fps_lmg_ak_stamp_545_lhg_rpk74m",
-	-- "wpn_fps_lmg_ak_stamp_556_lhg_rpk201"
-}
-
-ak_handguards_upper_poly = {
-	"wpn_fps_ass_ak_stamp_762_uhg_ak103",
-	"wpn_fps_ass_ak_stamp_545_uhg_ak74m",
-	"wpn_fps_ass_ak_stamp_556_uhg_ak101"
-	-- "wpn_fps_smg_ak_stamp_919_uhg_vityaz",
-	-- "wpn_fps_lmg_ak_stamp_762_uhg_rpk203",
-	-- "wpn_fps_lmg_ak_stamp_545_uhg_rpk74m",
-	-- "wpn_fps_lmg_ak_stamp_556_uhg_rpk201"
-}
-
-ak_variants_poly = {
+ak_variants_all_poly = {
 	"plum",
 	"border",
 	"od",
@@ -110,18 +90,18 @@ ak_variants_poly = {
 --=========================--
 
 if BeardLib.Utils:FindMod("AKM") then
-	table.insert(ak_variants_bake, "akm")
+	table.insert(ak_variants_pg_bake, "akm")
 end
 
 if BeardLib.Utils:FindMod("AK-74") then
-	table.insert(ak_variants_bake, "ak74")
+	table.insert(ak_variants_pg_bake, "ak74")
 end
 
 --=========================--
 --          SETUP          --
 --=========================--
 
-self:akpack2_setup_variants( "pg", ak_grips_bake, "akm", ak_variants_bake )
-self:akpack2_setup_variants( "st", ak_stocks_akm, "akm", ak_variants_wood )
+self:akpack2_setup_variants( "pg", ak_parts_pg_bake, "akm", ak_variants_pg_bake )
+self:akpack2_setup_variants( "st", ak_parts_st_akm, "akm", ak_variants_st_akm )
 
 end)
