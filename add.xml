@@ -150,27 +150,61 @@
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_black"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_black_thq"/>
 	
-	<!-- AKM HANDGUARD -->
-	
-	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_handguard_std_nm"/>
+	<!-- AKM HUE -->
 	
 	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_handguard_hue_df"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_stock_hue_df"/>
+	
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_lhg_akm_hue"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_lhg_akm_hue_thq"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_uhg_akm_hue"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_uhg_akm_hue_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_st_akm_hue"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_st_akm_hue_thq"/>
+	
+	<!-- AKM RED -->
+
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_handguard_red_df"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_stock_red_df"/>
+	
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_lhg_akm_red"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_lhg_akm_red_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_uhg_akm_red"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_uhg_akm_red_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_st_akm_red"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_st_akm_red_thq"/>
+	
+	<!-- AKM HANDGUARD -->
+	
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_handguard_std_nm"/>
 	
 	<!-- AKM STOCK -->
 	
 	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_stock_std_nm"/>
 	
-	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_stock_hue_df"/>
-	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_st_akm_hue"/>
-	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_st_akm_hue_thq"/>
-	
 	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/akm_stock_romyg_df"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_st_akm_romyg"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_st_akm_romyg_thq"/>
+	
+	<!-- AK-74 RED -->
+	
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_ak74_pts/ak74_handguard_red_df"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_ak74_pts/ak74_stock_red_df"/>
+	
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_ak74_pts/wpn_fps_ass_ak_all_lhg_ak74_red"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_ak74_pts/wpn_fps_ass_ak_all_lhg_ak74_red_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_ak74_pts/wpn_fps_ass_ak_all_uhg_ak74_red"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_ak74_pts/wpn_fps_ass_ak_all_uhg_ak74_red_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_ak74_pts/wpn_fps_ass_ak_all_st_ak74_red"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_ak74_pts/wpn_fps_ass_ak_all_st_ak74_red_thq"/>
+	
+	<!-- AK-74 HANDGUARD -->
+	
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_ak74_pts/ak74_handguard_std_nm"/>
+	
+	<!-- AK-74 STOCK -->
+	
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_ak74_pts/ak74_stock_std_nm"/>
 	
 	<!-- ICONS -->
 	
@@ -178,5 +212,7 @@
 	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_762_m_pmag_30"/>
 	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_762_m_pmag_20"/>
 	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_762_m_pmag_10"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_545_m_pmag_30"/>
 
 </AddFiles>

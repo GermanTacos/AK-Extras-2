@@ -79,17 +79,31 @@
 	"bm_w_paint_pg_akm_maadi"	    : "Maadi Blue Bakelite Grip",
 	"bm_w_paint_pg_akm_maadi_desc"  : "Not actually blue, but a black bakelite grip from Egypt that shines blue under light. Extremely rare.",
 	"bm_w_paint_pg_akm_black"	    : "Maadi Black Bakelite Grip",
-	"bm_w_paint_pg_akm_black_desc"  : "A standard black bakelite Maadi grip from Egypt. Differs from polymer grips in weight and texture."
+	"bm_w_paint_pg_akm_black_desc"  : "A standard black bakelite Maadi grip from Egypt. Differs from polymer grips in weight and texture.",
 	
 	"bm_w_paint_lhg_akm_hue"	    : "Saturated AKM Lower Handguard",
-	"bm_w_paint_lhg_akm_hue_desc"  	: "Standard AKM Handguard with saturated finish."
+	"bm_w_paint_lhg_akm_hue_desc"  	: "Standard AKM Handguard with saturated finish.",
 	"bm_w_paint_uhg_akm_hue"	    : "Saturated AKM Upper Handguard",
-	"bm_w_paint_uhg_akm_hue_desc"  	: "Standard AKM Handguard with saturated finish."
-	
+	"bm_w_paint_uhg_akm_hue_desc"  	: "Standard AKM Handguard with saturated finish.",
 	"bm_w_paint_st_akm_hue"	    	: "Saturated AKM Stock",
-	"bm_w_paint_st_akm_hue_desc"  	: "Standard AKM Stock with saturated finish."
+	"bm_w_paint_st_akm_hue_desc"  	: "Standard AKM Stock with saturated finish.",
+	
+	"bm_w_paint_lhg_akm_red"	    : "Russian Red AKM Lower Handguard",
+	"bm_w_paint_lhg_akm_red_desc"  	: "Standard AKM Handguard with Russian Red finish.",
+	"bm_w_paint_uhg_akm_red"	    : "Russian Red AKM Upper Handguard",
+	"bm_w_paint_uhg_akm_red_desc"  	: "Standard AKM Handguard with Russian Red finish.",
+	"bm_w_paint_st_akm_red"	    	: "Russian Red AKM Stock",
+	"bm_w_paint_st_akm_red_desc"  	: "Standard AKM Stock with Russian Red finish.",
+	
+	"bm_w_paint_lhg_ak74_red"	    : "Russian Red AK-74 Lower Handguard",
+	"bm_w_paint_lhg_ak74_red_desc"  : "Standard AK-74 Handguard with Russian Red finish.",
+	"bm_w_paint_uhg_ak74_red"	    : "Russian Red AK-74 Upper Handguard",
+	"bm_w_paint_uhg_ak74_red_desc"  : "Standard AK-74 Handguard with Russian Red finish.",
+	"bm_w_paint_st_ak74_red"	    : "Russian Red AK-74 Stock",
+	"bm_w_paint_st_ak74_red_desc"  	: "Standard AK-74 Stock with Russian Red finish.",
+	
 	"bm_w_paint_st_akm_romyg"	    : "Romanian 'Garda' Stock",
-	"bm_w_paint_st_akm_romyg_desc"  : "A stock taken from a PM md.63 Gardă. Originally produced for Romanian Patriotic Guards, these stocks are recognizable by the black painted strip along the back."
+	"bm_w_paint_st_akm_romyg_desc"  : "A stock taken from a PM md.63 Gardă. Originally produced for Romanian Patriotic Guards, these stocks are recognizable by the black painted strip along the back.",
 
 	"bm_wp_end" : "End"
 	
