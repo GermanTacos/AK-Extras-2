@@ -4,17 +4,17 @@
 	
 	<!-- MUZZLES -->
 	
-	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/dtk1_muzzle_brake_std"/>
-	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/dyna_muzzle_brake_std"/>
-	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/fhmb_muzzle_brake_std"/>
-	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/venom_muzzle_brake_std"/>
-	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_545_muzzle_pts/jet_muzzle_brake_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_muzzle_pts/dtk1_muzzle_brake_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_muzzle_pts/dyna_muzzle_brake_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_muzzle_pts/fhmb_muzzle_brake_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_muzzle_pts/venom_muzzle_brake_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_muzzle_pts/jet_muzzle_brake_std"/>
 	
-	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/wpn_fps_ass_ak_all_762_md_dtk1"/>
-	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/wpn_fps_ass_ak_all_762_md_dyna"/>
-	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/wpn_fps_ass_ak_all_762_md_fhmb"/>
-	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_muzzle_pts/wpn_fps_ass_ak_all_762_md_venom"/>
-	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_545_muzzle_pts/wpn_fps_ass_ak_all_762_md_jet"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_muzzle_pts/wpn_fps_ass_ak_all_md_dtk1"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_muzzle_pts/wpn_fps_ass_ak_all_md_dyna"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_muzzle_pts/wpn_fps_ass_ak_all_md_fhmb"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_muzzle_pts/wpn_fps_ass_ak_all_md_venom"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_muzzle_pts/wpn_fps_ass_ak_all_md_jet"/>
 	
 	<!-- HANDGUARDS -->
 	
@@ -222,5 +222,59 @@
 	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_762_m_pmag_10"/>
 	
 	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_545_m_pmag_30"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_dc_awoo"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_dc_b33"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_dc_bastion"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_dc_pdc"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_gt_m1b"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_gt_troy"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_gt_vs33"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_hg_cmrd"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_hg_heat"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_hg_trax"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_hg_ufm"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_hge_trax"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_ak200"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_b10"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_b10m"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_caa"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_hex"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_moe"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_tdi"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_vent"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_vs24"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_zhukov"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_b19"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_caa"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_moe"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_swiss"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_zhukov"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_pg_ak12"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_pg_mg47"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_pg_moe"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_pg_palm"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_pg_rk3"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_pg_saw"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_pg_strike"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_st_zhukov"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_sta_akts"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_sta_uf_akts"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_ro_tt01"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_md_dtk1"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_md_jet"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_md_venom"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_md_dyna"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_md_fhmb"/>
 
 </AddFiles>
