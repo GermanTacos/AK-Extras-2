@@ -81,6 +81,14 @@
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_st_zhukov"/>
 	
+	<!-- STOCK ADAPTERS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/akts_stock_adapter_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/akts_folding_stock_adapter_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_sta_akts"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_sta_uf_akts"/>
+	
 	<!-- GAS BLOCKS -->
 	
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_barrel_pts/m1b_gas_tube_std"/>
