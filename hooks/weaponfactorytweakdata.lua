@@ -33,19 +33,23 @@ Hooks:PostHook( WeaponFactoryTweakData, "init", "AKExtras2Init", function(self)
 
 ak_parts_pg_bake = {
 	"wpn_fps_ass_ak_stamp_762_pg_akm",
-	"wpn_fps_ass_ak_stamp_545_pg_ak74"
+	"wpn_fps_ass_ak_stamp_545_pg_ak74",
+	"wpn_fps_ass_ak_stamp_gold_pg_akms"
 }
 
 ak_parts_lhg_akm = {
-	"wpn_fps_ass_ak_stamp_762_lhg_akm"
+	"wpn_fps_ass_ak_stamp_762_lhg_akm",
+	"wpn_fps_ass_ak_stamp_gold_lhg_akms"
 }
 
 ak_parts_uhg_akm = {
-	"wpn_fps_ass_ak_stamp_762_uhg_akm"
+	"wpn_fps_ass_ak_stamp_762_uhg_akm",
+	"wpn_fps_ass_ak_stamp_gold_uhg_akm"
 }
 
 ak_parts_st_akm = {
-	"wpn_fps_ass_ak_stamp_762_st_akm"
+	"wpn_fps_ass_ak_stamp_762_st_akm",
+	"wpn_fps_ass_ak_stamp_gold_st_akm"
 }
 
 ak_parts_lhg_ak74 = {
