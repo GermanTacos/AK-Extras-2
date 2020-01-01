@@ -68,12 +68,16 @@
 	"bm_wp_wpn_fps_ass_ak_all_gt_vs33"    : "VS-33 Gas Tube",
 	"bm_wp_wpn_fps_ass_ak_all_gt_vs33c"   : "VS-33c Gas Tube",
 	
-	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_30" : "30 Round Magpul PMAG",
-	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_20" : "20 Round Magpul PMAG",
-	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_10" : "10 Round Magpul PMAG",
-	"bm_wp_wpn_fps_ass_ak_all_762_m_palm_30" : "30 Round US Palm Magazine",
+	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_30"   : "30 Round Magpul PMAG",
+	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_20"   : "20 Round Magpul PMAG",
+	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_10"   : "10 Round Magpul PMAG",
+	"bm_wp_wpn_fps_ass_ak_all_762_m_palm_30"   : "30 Round US Palm Magazine",
+	"bm_wp_wpn_fps_ass_ak_all_762_m_banana_30" : "30 Round Banana Magazine",
 	
-	"bm_wp_wpn_fps_ass_ak_all_545_m_pmag_30" : "30 Round Magpul PMAG",
+	"bm_wp_wpn_fps_ass_ak_all_545_m_pmag_30"   : "30 Round Magpul PMAG",
+	"bm_wp_wpn_fps_ass_ak_all_545_m_banana_30" : "30 Round Banana Magazine",
+	
+	"bm_wp_wpn_fps_ass_ak_all_556_m_banana_30" : "30 Round Banana Magazine",
 	
 	"bm_w_paint_pg_akm_fleck"	    : "Molot 'Flecked' Red Bakelite Grip",
 	"bm_w_paint_pg_akm_fleck_desc"  : "A sought-after version of the standard AKM grip, praised for the 'fleck' pattern that runs throughout the reddish bakelite. Made by Molot in Vyatskiye Polyany.",

@@ -1,0 +1,6 @@
+<dynamic_object>
+	<diesel materials="units/mods/weapons/wpn_fps_ass_ak_all_556_mag_pts/wpn_fps_ass_ak_all_556_m_banana_30" orientation_object="rp_wpn_fps_ass_flint_m_standard" />
+	<graphics>
+		<object name="g_mag" enabled="true" />
+	</graphics>
+</dynamic_object>
