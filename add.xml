@@ -118,6 +118,14 @@
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/wpn_fps_ass_ak_all_ro_tt01"/>
 	
+	<!-- ALPHA -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_alpha_pts/alpha_main_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_alpha_pts/wpn_fps_ass_ak_all_uhg_alpha"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_alpha_pts/wpn_fps_ass_ak_all_lhg_alpha"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_alpha_pts/wpn_fps_ass_ak_all_tr_alpha"/>
+	
 	<!-- MAG PARTS -->
 	
 	<!-- 762 -->

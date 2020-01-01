@@ -68,6 +68,10 @@
 	"bm_wp_wpn_fps_ass_ak_all_gt_vs33"    : "VS-33 Gas Tube",
 	"bm_wp_wpn_fps_ass_ak_all_gt_vs33c"   : "VS-33c Gas Tube",
 	
+	"bm_wp_wpn_fps_ass_ak_all_lhg_alpha" : "ZenitCo B30 Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_uhg_alpha" : "ZenitCo B31 Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_tr_alpha"  : "ALG AKT-EL Trigger",
+	
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_30"   : "30 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_20"   : "20 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_10"   : "10 Round Magpul PMAG",
