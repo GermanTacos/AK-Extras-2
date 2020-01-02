@@ -78,16 +78,26 @@
 	<!-- STOCKS -->
 	
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/zhukov_stock_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/pt1_stock_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/pt3_stock_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/uas_stock_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_st_zhukov"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_st_pt1"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_st_pt3"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_st_uas"/>
 	
 	<!-- STOCK ADAPTERS -->
 	
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/akts_stock_adapter_std"/>
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/akts_folding_stock_adapter_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/zenit_stock_adapter_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/zenit_folding_stock_adapter_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_sta_akts"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_sta_uf_akts"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_sta_zenit">
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_sta_uf_zenit"/>
 	
 	<!-- GAS BLOCKS -->
 	

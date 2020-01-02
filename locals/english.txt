@@ -55,8 +55,10 @@
 	
 	"bm_wp_wpn_fps_ass_ak_all_st_zhukov"  : "Magpul Zhukov Stock",
 	
-	"bm_wp_wpn_fps_ass_ak_all_sta_akts"    : "CAA AKTS Stock Adapter",
-	"bm_wp_wpn_fps_ass_ak_all_sta_uf_akts" : "CAA AKTS Folding Stock Adapter",
+	"bm_wp_wpn_fps_ass_ak_all_sta_akts"     : "CAA AKTS Stock Adapter",
+	"bm_wp_wpn_fps_ass_ak_all_sta_uf_akts"  : "CAA AKTS Folding Stock Adapter",
+	"bm_wp_wpn_fps_ass_ak_all_sta_zenit"    : "ZenitCo Solid Stock Adapter",
+	"bm_wp_wpn_fps_ass_ak_all_sta_uf_zenit" : "ZenitCo Folding Stock Adapter",
 	
 	"bm_wp_wpn_fps_ass_ak_all_dc_awoo"	  : "Texas Battle Systems 'Dog Leg' Dust Cover",
 	"bm_wp_wpn_fps_ass_ak_all_dc_b33"	  : "ZenitCo B33 Dust Cover",
