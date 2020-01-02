@@ -497,7 +497,6 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762_re_ak103"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545_re_ak74m"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556_re_ak101"/>
-			<value_node value="wpn_fps_ass_ak_stamp_gold_re_akm"/>
 		</requires>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
