@@ -557,6 +557,14 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545_re_ak74m"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556_re_ak101"/>
 		</requires>
+		<forbids>
+			<value_node value="wpn_fps_ass_ak_stamp_762_st_akm"/>
+			<value_node value="wpn_fps_ass_ak_all_st_akm"/>
+			<value_node value="wpn_fps_ass_ak_stamp_545_st_ak74"/>
+			<value_node value="wpn_fps_ass_ak_all_st_ak74"/>
+			<value_node value="wpn_fps_ass_ak_all_st_zhukov"/>
+			<value_node value="wpn_fps_ass_ak_all_st_uas"/>
+		</forbids>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
