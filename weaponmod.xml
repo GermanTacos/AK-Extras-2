@@ -26,6 +26,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -39,6 +40,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -47,6 +49,7 @@
 		<stats concealment="-2" damage="0" spread="1" recoil="2"/>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -58,6 +61,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -67,6 +71,7 @@
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -78,6 +83,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -89,6 +95,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -391,6 +398,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -402,6 +410,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -413,6 +422,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -424,6 +434,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -435,6 +446,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -446,6 +458,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -457,6 +470,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -624,6 +638,8 @@
 			<wpn_fps_ass_ak_stamp_762_ro_akm	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_545_ro_ak74 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_545_ro_ak101 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_gold_ro_akms	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_chicom_762_ro_t56	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
 		<forbids>
 			<value_node value="wpn_fps_ass_ak_stamp_762_ro_akmb"/>
@@ -633,6 +649,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -647,6 +664,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -660,6 +678,8 @@
 			<wpn_fps_ass_ak_stamp_762_om_tula 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_545_om_tula 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_om_tula 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_chicom_762_ro_t56	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_chicom_762_om_tula 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
 		<forbids>
 			<value_node value="wpn_fps_ass_ak_stamp_762_ro_akmb"/>
@@ -670,6 +690,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -681,6 +702,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -702,12 +724,16 @@
 			<wpn_fps_ass_ak_stamp_gold_uhg_akms		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_urhgr_akms	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_ufhgr_akms	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_chicom_762_uhg_t56		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_chicom_762_urhgr_t56	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_chicom_762_ufhgr_t56	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -727,12 +753,16 @@
 			<wpn_fps_ass_ak_stamp_gold_uhg_akms		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_urhgr_akms	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_ufhgr_akms	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_chicom_762_uhg_t56		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_chicom_762_urhgr_t56	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_chicom_762_ufhgr_t56	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -752,12 +782,16 @@
 			<wpn_fps_ass_ak_stamp_gold_uhg_akms		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_urhgr_akms	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_ufhgr_akms	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_chicom_762_uhg_t56		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_chicom_762_urhgr_t56	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_chicom_762_ufhgr_t56	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -824,6 +858,7 @@
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 	</WeaponMod>
 	
@@ -833,6 +868,7 @@
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -843,6 +879,7 @@
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -852,6 +889,7 @@
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 		<pcs/>
 	</WeaponMod>
@@ -862,6 +900,7 @@
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
+			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
 	</WeaponMod>
 	
