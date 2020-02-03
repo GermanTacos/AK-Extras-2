@@ -11,12 +11,12 @@
 
 	"bm_wp_wpn_fps_ass_ak_all_stp_folded" : "Folded Stock",
 	
-	"bm_wp_wpn_fps_ass_ak_all_762_md_dtk1"  : "ZenitCo DTK-1 Muzzle Brake",
-	"bm_wp_wpn_fps_ass_ak_all_762_md_dyna"  : "Dynacomp AK Muzzle Brake",
-	"bm_wp_wpn_fps_ass_ak_all_762_md_fhmb"  : "SRVV FHMB Muzzle Brake",
-	"bm_wp_wpn_fps_ass_ak_all_762_md_venom" : "Venom Antidote Muzzle Brake",
+	"bm_wp_wpn_fps_ass_ak_all_md_dtk1"  : "ZenitCo DTK-1 Muzzle Brake",
+	"bm_wp_wpn_fps_ass_ak_all_md_dyna"  : "Dynacomp AK Muzzle Brake",
+	"bm_wp_wpn_fps_ass_ak_all_md_fhmb"  : "SRVV FHMB Muzzle Brake",
+	"bm_wp_wpn_fps_ass_ak_all_md_venom" : "Venom Antidote Muzzle Brake",
 	
-	"bm_wp_wpn_fps_ass_ak_all_545_md_jet"   : "SRVV Jet Muzzle Brake",
+	"bm_wp_wpn_fps_ass_ak_all_md_jet"   : "SRVV Jet Muzzle Brake",
 	
 	"bm_wp_wpn_fps_ass_ak_all_ro_tt01" : "Tula TT01 Railed Rear Iron Sight",
 	
