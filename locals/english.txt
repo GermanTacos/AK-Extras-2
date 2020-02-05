@@ -77,6 +77,16 @@
 	"bm_wp_wpn_fps_ass_ak_all_uhg_alpha" : "ZenitCo B31 Upper Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_tr_alpha"  : "ALG AKT-EL Trigger",
 	
+	"bm_wp_wpn_fps_ass_ak_all_lhg_ivan"   : "Ivan Goes To Space Station Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_uhg_ivan"   : "Ivan Goes To Space Station Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_pg_ivan"    : "Ivan Goes To Space Station Pistol Grip",
+	"bm_wp_wpn_fps_ass_ak_all_st_uf_ivan" : "Ivan Goes To Space Station Stock",
+	"bm_wp_wpn_fps_ass_ak_all_st_f_ivan"  : "Ivan Goes To Space Station Stock (Folded)",
+	"bm_wp_wpn_fps_ass_ak_all_tr_ivan"    : "Ivan Goes To Space Station Trigger",
+	"bm_wp_wpn_fps_ass_ak_all_mw_ivan"    : "Ivan Goes To Space Station Magwell",
+	"bm_wp_wpn_fps_ass_ak_all_vg_ivan"    : "Ivan Goes To Space Station Vertical Grip",
+	"bm_wp_wpn_fps_ass_ak_all_md_ivan"    : "Ivan Goes To Space Station Slotted Barrel Extension",
+	
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_30"   : "30 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_20"   : "20 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_10"   : "10 Round Magpul PMAG",
@@ -86,7 +96,19 @@
 	"bm_wp_wpn_fps_ass_ak_all_545_m_pmag_30"   : "30 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_545_m_banana_30" : "30 Round Banana Magazine",
 	
+	"bm_wp_wpn_fps_ass_ak_all_545_m_ivan_30"   : "30 Round Steel Ivan Goes To Space Station Magazine",
+	"bm_wp_wpn_fps_ass_ak_all_545_m_ivan_45"   : "45 Round Polymer Ivan Goes To Space Station Magazine",
+	
 	"bm_wp_wpn_fps_ass_ak_all_556_m_banana_30" : "30 Round Banana Magazine",
+	
+	"bm_w_paint_ivan_old"		: "Old",
+	"bm_w_paint_ivan_old_desc"	: "Metal that has rusted from years of storage.",
+	"bm_w_paint_ivan_worn"		: "Worn",
+	"bm_w_paint_ivan_worn_desc"	: "Metal that has lost its finish from extensive use.",
+	"bm_w_paint_ivan_dark"		: "Black Plastic",
+	"bm_w_paint_ivan_dark_desc"	: "Far more tacticool.",
+	"bm_w_paint_ivan_prop"		: "Propaganda",
+	"bm_w_paint_ivan_prop_desc"	: "Glory to the motherland!",
 	
 	"bm_w_paint_pg_akm_fleck"	    : "Molot 'Flecked' Red Bakelite Grip",
 	"bm_w_paint_pg_akm_fleck_desc"  : "A sought-after version of the standard AKM grip, praised for the 'fleck' pattern that runs throughout the reddish bakelite. Made by Molot in Vyatskiye Polyany.",
