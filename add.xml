@@ -172,6 +172,18 @@
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_ivan_pts/wpn_fps_ass_ak_all_uhg_ivan_wood"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_ivan_pts/wpn_fps_ass_ak_all_uhg_ivan_wood_thq"/>
 	
+	<!-- BORDER GUARD -->
+	
+	<texture	 path="units/mods/weapons/wpn_fps_ass_ak_all_guard_pts/guard_handguard_std_df"/>
+	<texture	 path="units/mods/weapons/wpn_fps_ass_ak_all_guard_pts/guard_stock_std_df"/>
+	<texture	 path="units/mods/weapons/wpn_fps_ass_ak_all_guard_pts/guard_pistol_grip_std_df"/>
+	
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_guard_pts/wpn_fps_ass_ak_all_uhg_guard"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_guard_pts/wpn_fps_ass_ak_all_lhg_guard"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_guard_pts/wpn_fps_ass_ak_all_pg_guard"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_guard_pts/wpn_fps_ass_ak_all_st_guard"/>
+	
 	<!-- MAG PARTS -->
 	
 	<!-- 762 -->
@@ -179,12 +191,14 @@
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/mag_pmag_30_std"/>
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/mag_palm_30_std"/>
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/mag_banana_30_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/mag_guard_30_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/wpn_fps_ass_ak_all_762_m_pmag_30"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/wpn_fps_ass_ak_all_762_m_pmag_20"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/wpn_fps_ass_ak_all_762_m_pmag_10"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/wpn_fps_ass_ak_all_762_m_palm_30"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/wpn_fps_ass_ak_all_762_m_banana_30"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_762_mag_pts/wpn_fps_ass_ak_all_762_m_guard_30"/>
 	
 	<!-- 545 -->
 	

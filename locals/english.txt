@@ -89,13 +89,19 @@
 	"bm_wp_wpn_fps_ass_ak_all_tr_ivan"    : "Ivan Goes To Space Station Trigger",
 	"bm_wp_wpn_fps_ass_ak_all_mw_ivan"    : "Ivan Goes To Space Station Magwell",
 	"bm_wp_wpn_fps_ass_ak_all_vg_ivan"    : "Ivan Goes To Space Station Vertical Grip",
-	"bm_wp_wpn_fps_ass_ak_all_md_ivan"    : "Ivan Goes To Space Station Slotted Barrel Extension",
+	"bm_wp_wpn_fps_ass_ak_all_md_ivan"    : "Ivan's Slotted Barrel Extension",
+	
+	"bm_wp_wpn_fps_ass_ak_all_lhg_guard"  : "Russian Border Guard Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_uhg_guard"  : "Russian Border Guard Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_pg_guard"   : "Russian Border Guard Pistol Grip",
+	"bm_wp_wpn_fps_ass_ak_all_st_guard"   : "Russian Border Guard Stock",
 	
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_30"   : "30 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_20"   : "20 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_pmag_10"   : "10 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_palm_30"   : "30 Round US Palm Magazine",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_banana_30" : "30 Round Banana Magazine",
+	"bm_wp_wpn_fps_ass_ak_all_762_m_guard_30"  : "30 Round Russian Border Guard Magazine",
 	
 	"bm_wp_wpn_fps_ass_ak_all_545_m_pmag_30"   : "30 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_545_m_banana_30" : "30 Round Banana Magazine",
