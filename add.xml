@@ -57,6 +57,15 @@
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/wpn_fps_ass_ak_all_uhg_swiss"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/wpn_fps_ass_ak_all_uhg_zhukov"/>
 	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/b11_handguard_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/xrsu_handguard_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/goliaf_handguard_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/wpn_fps_ass_ak_all_lhg_b11"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/wpn_fps_ass_ak_all_lhg_xrsu"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/wpn_fps_ass_ak_all_lhg_goliaf"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_handguard_pts/wpn_fps_ass_ak_all_uhg_goliaf"/>
+	
 	<!-- GRIPS -->
 	
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_grip_pts/ak12_pistol_grip_std"/>

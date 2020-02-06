@@ -34,9 +34,13 @@
 	"bm_wp_wpn_fps_ass_ak_all_lhg_tdi"	  : "TDI AKML Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_lhg_vent"	  : "Troy BattleRail Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_lhg_vs24"	  : "VS-24 Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_lhg_b11"	  : "ZenitCo B11 Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_lhg_xrsu"	  : "CAA XRSU47U Lower Handguard and Mount System",
+	"bm_wp_wpn_fps_ass_ak_all_lhg_goliaf" : "Alfa Arms Goliaf Lower Handguard",
 	
 	"bm_wp_wpn_fps_ass_ak_all_uhg_b19"    : "ZenitCo B19 Upper Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_uhg_swiss"  : "Khyber Customs Swiss Grater Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_uhg_goliaf" : "Alfa Arms Goliaf Upper Handguard",
 	
 	"bm_wp_wpn_fps_ass_ak_all_hg_trax"    : "Strike Industries TRAX 1 Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_hg_cmrd"    : "VLTOR CMRD Handguard",

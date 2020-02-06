@@ -34,6 +34,8 @@ Hooks:PostHook( WeaponFactoryTweakData, "init", "AKExtras2Init", function(self)
 ak_parts_pg_bake = {
 	"wpn_fps_ass_ak_stamp_762_pg_akm",
 	"wpn_fps_ass_ak_stamp_545_pg_ak74",
+	"wpn_fps_ass_ak_krink_545_pg_aks74u",
+	"wpn_fps_ass_ak_krink_762_pg_akmsu",
 	"wpn_fps_ass_ak_stamp_gold_pg_akms"
 }
 
@@ -135,6 +137,14 @@ end
 
 if BeardLib.Utils:FindMod("AK-74") then
 	table.insert(ak_variants_pg_bake, "ak74")
+end
+
+if BeardLib.Utils:FindMod("AKS-74U") then
+	table.insert(ak_variants_pg_bake, "aks74u")
+end
+
+if BeardLib.Utils:FindMod("AKMSU") then
+	table.insert(ak_variants_pg_bake, "akmsu")
 end
 
 --=========================--
