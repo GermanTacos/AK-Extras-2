@@ -1,0 +1,6 @@
+<materials version="3" group="weapon_ak12">
+	<material name="mtr_battle" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:NORMALMAP_UV1" version="2">
+		<diffuse_texture 	 file="units/mods/weapons/wpn_fps_ass_ak_all_alpha_pts/alpha_main_std_df" mip="1"/>
+		<bump_normal_texture file="units/mods/weapons/wpn_fps_ass_ak_all_alpha_pts/alpha_main_std_nm" mip="1"/>
+	</material>
+</materials>

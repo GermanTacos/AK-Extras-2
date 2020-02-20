@@ -37,6 +37,7 @@
 	"bm_wp_wpn_fps_ass_ak_all_lhg_b11"	  : "ZenitCo B11 Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_lhg_xrsu"	  : "CAA XRSU47U Lower Handguard and Mount System",
 	"bm_wp_wpn_fps_ass_ak_all_lhg_goliaf" : "Alfa Arms Goliaf Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_lhg_ding"   : "Krink Dong Lower Handguard",
 	
 	"bm_wp_wpn_fps_ass_ak_all_uhg_b19"    : "ZenitCo B19 Upper Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_uhg_swiss"  : "Khyber Customs Swiss Grater Upper Handguard",
@@ -80,6 +81,8 @@
 	"bm_wp_wpn_fps_ass_ak_all_lhg_alpha" : "ZenitCo B30 Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_uhg_alpha" : "ZenitCo B31 Upper Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_tr_alpha"  : "ALG AKT-EL Trigger",
+	"bm_wp_wpn_fps_ass_ak_all_md_alpha"  : "Bulgarian Four-Piece Flash Hider",
+	"bm_wp_wpn_fps_ass_ak_all_sad_alpha" : "Alpha Stock Adapter",
 	
 	"bm_wp_wpn_fps_ass_ak_all_lhg_ivan"   : "Ivan Goes To Space Station Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_uhg_ivan"   : "Ivan Goes To Space Station Upper Handguard",
