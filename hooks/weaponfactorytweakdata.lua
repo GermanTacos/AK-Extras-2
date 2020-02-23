@@ -23,6 +23,18 @@ function WeaponFactoryTweakData:akpack2_setup_variants( part, part_table, model,
 	end
 end
 
+function WeaponFactoryTweakData:akpack2_setup_overrides( part_type, part_table, base_part, weapon_id )
+	for id, part_id in pairs(self[weapon_id].uses_parts) do
+		if self.parts[part_id].type == part_type then
+			if self.parts[part_id].override and self.parts[part_id].override[base_part] then
+				for _, extra_part_id in pairs(part_table) do
+					self.parts[part_id].override[extra_part_id] = deep_clone(self.parts[part_id].override[base_part])					
+				end
+			end
+		end
+	end
+end
+
 Hooks:PostHook( WeaponFactoryTweakData, "init", "AKExtras2Init", function(self)
 
 --=========================--
@@ -30,6 +42,18 @@ Hooks:PostHook( WeaponFactoryTweakData, "init", "AKExtras2Init", function(self)
 --=========================--
 
 --==========PARTS==========--
+
+ak_parts_barrel_ext_univ = {
+	"wpn_fps_ass_ak_all_md_dtk1",
+	"wpn_fps_ass_ak_all_md_fhmb",
+	"wpn_fps_ass_ak_all_md_jet",
+	"wpn_fps_ass_ak_all_md_alpha",
+	"wpn_fps_ass_ak_all_md_ivan"
+}
+ak_parts_barrel_ext_762x39 = {
+	"wpn_fps_ass_ak_all_md_dyna",
+	"wpn_fps_ass_ak_all_md_venom"
+}
 
 ak_parts_pg_bake = {
 	"wpn_fps_ass_ak_stamp_762_pg_akm",
@@ -133,6 +157,8 @@ ak_variants_all_poly = {
 
 if BeardLib.Utils:FindMod("AKM") then
 	table.insert(ak_variants_pg_bake, "akm")
+	self:akpack2_setup_overrides( "barrel2", ak_parts_barrel_ext_762x39, "wpn_fps_upg_ass_ns_battle", "wpn_fps_ass_ak_stamp_762" )
+	self:akpack2_setup_overrides( "barrel2", ak_parts_barrel_ext_univ, "wpn_fps_upg_ass_ns_battle", "wpn_fps_ass_ak_stamp_762" )
 end
 
 if BeardLib.Utils:FindMod("AK-74") then
