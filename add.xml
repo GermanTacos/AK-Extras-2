@@ -94,6 +94,7 @@
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/uas_stock_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_st_zhukov"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_st_zdann"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_st_pt1"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_st_pt3"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_stock_pts/wpn_fps_ass_ak_all_st_uas"/>
