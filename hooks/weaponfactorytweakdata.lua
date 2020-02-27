@@ -58,6 +58,7 @@ ak_parts_barrel_ext_762x39 = {
 ak_parts_pg_bake = {
 	"wpn_fps_ass_ak_stamp_762_pg_akm",
 	"wpn_fps_ass_ak_stamp_545_pg_ak74",
+	"wpn_fps_ass_ak_stamp_366_pg_vpo209_bake",
 	"wpn_fps_ass_ak_krink_545_pg_aks74u",
 	"wpn_fps_ass_ak_krink_762_pg_akmsu",
 	"wpn_fps_ass_ak_stamp_gold_pg_akms"
@@ -65,16 +66,19 @@ ak_parts_pg_bake = {
 
 ak_parts_lhg_akm = {
 	"wpn_fps_ass_ak_stamp_762_lhg_akm",
+	"wpn_fps_ass_ak_stamp_366_lhg_vpo209",
 	"wpn_fps_ass_ak_stamp_gold_lhg_akms"
 }
 
 ak_parts_uhg_akm = {
 	"wpn_fps_ass_ak_stamp_762_uhg_akm",
+	"wpn_fps_ass_ak_stamp_366_uhg_vpo209",
 	"wpn_fps_ass_ak_stamp_gold_uhg_akm"
 }
 
 ak_parts_st_akm = {
 	"wpn_fps_ass_ak_stamp_762_st_akm",
+	"wpn_fps_ass_ak_stamp_366_st_vpo209",
 	"wpn_fps_ass_ak_stamp_gold_st_akm"
 }
 
@@ -163,6 +167,10 @@ end
 
 if BeardLib.Utils:FindMod("AK-74") then
 	table.insert(ak_variants_pg_bake, "ak74")
+end
+
+if BeardLib.Utils:FindMod("VPO-209") then
+	table.insert(ak_variants_pg_bake, "vpo209")
 end
 
 if BeardLib.Utils:FindMod("AKS-74U") then
