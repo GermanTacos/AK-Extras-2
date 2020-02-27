@@ -37,7 +37,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -55,7 +55,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -69,7 +69,7 @@
 		<stats concealment="-2" damage="0" spread="1" recoil="2"/>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 		</weapons>
@@ -82,7 +82,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -96,7 +96,7 @@
 		<stats concealment="-1" damage="0" spread="0" recoil="2"/>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -110,7 +110,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -127,7 +127,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_556"/>
 		</weapons>
@@ -142,7 +142,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -157,7 +157,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -169,7 +169,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -184,7 +184,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -196,7 +196,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -208,7 +208,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -222,7 +222,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -234,7 +234,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -246,7 +246,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -258,7 +258,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -270,7 +270,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -282,7 +282,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -294,7 +294,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -344,7 +344,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -356,7 +356,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -382,8 +382,8 @@
 			<wpn_fps_ass_ak_stamp_545_lhg_ak74		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_lhg_ak101		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_uhg_ak101		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_uhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_lhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_uhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_lhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_lhg_akms		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_uhg_akms		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
@@ -391,7 +391,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -406,8 +406,8 @@
 			<wpn_fps_ass_ak_stamp_545_lhg_ak74		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_lhg_ak101		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_uhg_ak101		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_uhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_lhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_uhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_lhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_lhg_akms		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_uhg_akms		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
@@ -420,7 +420,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -435,8 +435,8 @@
 			<wpn_fps_ass_ak_stamp_545_lhg_ak74		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_lhg_ak101		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_uhg_ak101		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_uhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_lhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_uhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_lhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_lhg_akms		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_uhg_akms		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
@@ -449,7 +449,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -464,8 +464,8 @@
 			<wpn_fps_ass_ak_stamp_545_lhg_ak74		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_lhg_ak101		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_uhg_ak101		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_uhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_lhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_uhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_lhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_lhg_akms		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_uhg_akms		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
@@ -473,7 +473,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -490,7 +490,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -504,7 +504,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
@@ -520,7 +520,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
@@ -536,7 +536,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
@@ -552,7 +552,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
@@ -568,7 +568,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
@@ -584,7 +584,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
@@ -600,7 +600,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
@@ -619,14 +619,14 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762_re_wasr"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545_re_ak74"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545_re_wasr"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366_re_vpo209"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366_re_vpo209"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold_re_akm"/>
 		</requires>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -639,14 +639,14 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762_re_wasr"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545_re_ak74"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545_re_wasr"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366_re_vpo209"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366_re_vpo209"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold_re_akm"/>
 		</requires>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_556"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
@@ -664,7 +664,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -680,7 +680,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -692,7 +692,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -705,20 +705,20 @@
 		<override>
 			<wpn_fps_ass_ak_stamp_762_st_akm    unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_545_st_ak74   unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_st_vpo209 unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_st_vpo209 unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
 		<requires>
 			<value_node value="wpn_fps_ass_ak_stamp_762_re_akm"/>
 			<value_node value="wpn_fps_ass_ak_stamp_762_re_wasr"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545_re_ak74"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545_re_wasr"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366_re_vpo209"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366_re_vpo209"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold_re_akm"/>
 		</requires>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -758,20 +758,20 @@
 		<override>
 			<wpn_fps_ass_ak_stamp_762_st_akm    unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_545_st_ak74   unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_st_vpo209 unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_st_vpo209 unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
 		<requires>
 			<value_node value="wpn_fps_ass_ak_stamp_762_re_akm"/>
 			<value_node value="wpn_fps_ass_ak_stamp_762_re_wasr"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545_re_ak74"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545_re_wasr"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366_re_vpo209"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366_re_vpo209"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold_re_akm"/>
 		</requires>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -806,7 +806,7 @@
 			<wpn_fps_ass_ak_stamp_762_ro_akm	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_545_ro_ak74 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_ro_ak101 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_ro_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_ro_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_ro_akms	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_chicom_762_ro_t56	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_chicom_556_ro_t84	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
@@ -818,7 +818,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_556"/>
@@ -836,7 +836,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_556"/>
@@ -853,8 +853,8 @@
 			<wpn_fps_ass_ak_stamp_545_om_tula 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_ro_ak101 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_om_tula 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_ro_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_om_tula 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_ro_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_om_tula 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_chicom_762_ro_t56	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_chicom_762_om_tula 	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_chicom_556_ro_t84	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
@@ -868,7 +868,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_556"/>
@@ -882,7 +882,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_556"/>
@@ -904,9 +904,9 @@
 			<wpn_fps_ass_ak_stamp_556_uhg_ak101		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_urhgr_ak101	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_ufhgr_ak101	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_uhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_urhgr_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_ufhgr_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_uhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_urhgr_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_ufhgr_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_uhg_akms		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_urhgr_akms	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_ufhgr_akms	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
@@ -921,7 +921,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_556"/>
@@ -941,9 +941,9 @@
 			<wpn_fps_ass_ak_stamp_556_uhg_ak101		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_urhgr_ak101	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_ufhgr_ak101	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_uhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_urhgr_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_ufhgr_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_uhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_urhgr_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_ufhgr_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_uhg_akms		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_urhgr_akms	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_ufhgr_akms	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
@@ -958,7 +958,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_556"/>
@@ -978,9 +978,9 @@
 			<wpn_fps_ass_ak_stamp_556_uhg_ak101		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_urhgr_ak101	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_556_ufhgr_ak101	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_uhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_urhgr_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_ufhgr_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_uhg_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_urhgr_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_ufhgr_vpo209	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_uhg_akms		unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_urhgr_akms	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_ufhgr_akms	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
@@ -995,7 +995,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_556"/>
@@ -1025,7 +1025,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -1040,7 +1040,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -1052,7 +1052,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
@@ -1066,7 +1066,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
@@ -1081,20 +1081,20 @@
 		<override>
 			<wpn_fps_ass_ak_stamp_762_st_akm    unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_545_st_ak74   unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_366_st_vpo209 unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_sho_ak_stamp_366_st_vpo209 unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
 		<requires>
 			<value_node value="wpn_fps_ass_ak_stamp_762_re_akm"/>
 			<value_node value="wpn_fps_ass_ak_stamp_762_re_wasr"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545_re_ak74"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545_re_wasr"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366_re_vpo209"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366_re_vpo209"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold_re_akm"/>
 		</requires>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -1126,7 +1126,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -1142,7 +1142,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -1191,7 +1191,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -1207,7 +1207,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -1225,7 +1225,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -1237,7 +1237,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -1249,7 +1249,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_545"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -1266,13 +1266,13 @@
 			<value_node value="wpn_fps_ass_ak_stamp_762_re_wasr"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545_re_ak74"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545_re_wasr"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366_re_vpo209"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366_re_vpo209"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold_re_akm"/>
 		</requires>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 		</weapons>
 		<pcs/>
@@ -1287,7 +1287,7 @@
 		<pcs/>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -1299,7 +1299,7 @@
 		<override_weapon CLIP_AMMO_MAX="20"/>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -1312,7 +1312,7 @@
 		<override_weapon CLIP_AMMO_MAX="10"/>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -1324,7 +1324,7 @@
 		<stats concealment="0" damage="0" spread="0" recoil="0"/>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -1337,7 +1337,7 @@
 		<pcs/>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
@@ -1349,7 +1349,7 @@
 		<pcs/>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
-			<value_node value="wpn_fps_ass_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_366"/>
 			<value_node value="wpn_fps_ass_ak_krink_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
