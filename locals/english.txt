@@ -119,6 +119,9 @@
 	
 	"bm_wp_wpn_fps_ass_ak_all_556_m_banana_30" : "30 Round Banana Magazine",
 	
+	"bm_w_paint_slavu"		: "Slavu",
+	"bm_w_paint_slavu_desc"	: "A customized magazine used by an operator named Vesna.",
+	
 	"bm_w_paint_ivan_old"		: "Old",
 	"bm_w_paint_ivan_old_desc"	: "Metal that has rusted from years of storage.",
 	"bm_w_paint_ivan_worn"		: "Worn",

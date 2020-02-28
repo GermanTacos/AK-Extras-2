@@ -184,6 +184,11 @@ ak_parts_st_poly = {
 	"wpn_fps_ass_ak_stamp_556_st_uf_ak101"
 }
 
+ak_parts_m_ak74m = {
+	"wpn_fps_ass_ak_stamp_545_m_poly_30",
+	"wpn_fps_ass_ak_krink_545_m_plum_30"
+}
+
 --=========VARIANTS========--
 
 ak_variants_pg_bake = {
@@ -218,6 +223,13 @@ ak_variants_all_poly = {
 	"od",
 	"sand"
 }
+
+for _, mag_id in pairs(ak_parts_m_ak74m) do
+	self.parts[mag_id].texture_variants = self.parts[mag_id].texture_variants or {}
+	self.parts[mag_id].texture_variants.slavu = {
+		material_config = "units/mods/weapons/wpn_fps_ass_ak_all_545_mag_pts/wpn_fps_ass_ak_all_545_m_poly_30_slavu"
+	}
+end
 
 --- CAFCW ---
 if attach_tables then

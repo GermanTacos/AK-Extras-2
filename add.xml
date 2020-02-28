@@ -217,6 +217,7 @@
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_545_mag_pts/mag_banana_30_std"/>
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_545_mag_pts/mag_ivan_30_std"/>
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_545_mag_pts/mag_ivan_45_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_545_mag_pts/mag_poly_30_slavu"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_545_mag_pts/wpn_fps_ass_ak_all_545_m_banana_30"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_545_mag_pts/wpn_fps_ass_ak_all_545_m_pmag_30"/>
@@ -236,6 +237,10 @@
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_545_mag_pts/wpn_fps_ass_ak_all_545_m_ivan_45_dark_thq"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_545_mag_pts/wpn_fps_ass_ak_all_545_m_ivan_45_prop"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_545_mag_pts/wpn_fps_ass_ak_all_545_m_ivan_45_prop_thq"/>
+	
+	
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_545_mag_pts/wpn_fps_ass_ak_all_545_m_poly_30_slavu"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_545_mag_pts/wpn_fps_ass_ak_all_545_m_poly_30_slavu_thq"/>
 	
 	<!-- 556 -->
 	
