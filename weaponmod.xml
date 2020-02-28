@@ -129,8 +129,6 @@
 			<wpn_fps_ass_ak_stamp_556_om_tula  	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_366_om_tula  	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_gold_om_tula	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_krink_762_om_tula	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_krink_545_om_tula	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_chicom_762_om_tula	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_chicom_556_om_tula	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
@@ -139,6 +137,7 @@
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 			<value_node value="wpn_fps_sho_ak_stamp_366"/>
+			<value_node value="wpn_fps_sho_ak_stamp_gold"/>
 			<value_node value="wpn_fps_ass_ak_chicom_762"/>
 			<value_node value="wpn_fps_ass_ak_chicom_556"/>
 		</weapons>
