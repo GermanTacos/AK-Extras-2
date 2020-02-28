@@ -8,6 +8,8 @@
 	"bm_menu_handguard_plural" 		 : "Handguards",
 	"bm_menu_handguard_extra" 		 : "Handguard Extension",
 	"bm_menu_handguard_extra_plural" : "Handguard Extensions",
+	"bm_menu_charging_handle" 		 : "Charging Handle",
+	"bm_menu_charging_handle_plural" : "Charging Handles",
 
 	"bm_wp_wpn_fps_ass_ak_all_stp_folded" : "Folded Stock",
 	
@@ -78,6 +80,8 @@
 	"bm_wp_wpn_fps_ass_ak_all_gt_m1b"     : "UltiMAK M1-B Gas Tube",
 	"bm_wp_wpn_fps_ass_ak_all_gt_vs33"    : "VS-33 Gas Tube",
 	"bm_wp_wpn_fps_ass_ak_all_gt_vs33c"   : "VS-33c Gas Tube",
+	
+	"bm_wp_wpn_fps_ass_ak_all_ch_rp1"     : "ZenitCo RP-1 Charging Handle Cover",
 	
 	"bm_wp_wpn_fps_ass_ak_all_lhg_alpha" : "ZenitCo B30 Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_uhg_alpha" : "ZenitCo B31 Upper Handguard",

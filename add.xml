@@ -134,6 +134,12 @@
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/wpn_fps_ass_ak_all_dc_bastion"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_receiver_pts/wpn_fps_ass_ak_all_dc_pdc"/>
 	
+	<!-- CHARGING HANDLES -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_charge_pts/rp1_charge_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_charge_pts/wpn_fps_ass_ak_all_ch_rp1"/>
+	
 	<!-- SIGHTS -->
 	
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/tt01_sight_rear_std"/>
