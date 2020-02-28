@@ -123,6 +123,17 @@
 	<!-- IRON SIGHTS -->
 	
 	<WeaponMod id="wpn_fps_ass_ak_all_ro_tt01"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="sight_rear" 					 unit="units/mods/weapons/wpn_fps_ass_ak_all_sight_pts/wpn_fps_ass_ak_all_ro_tt01"   	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+		<override>
+			<wpn_fps_ass_ak_stamp_762_om_tula  	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_545_om_tula  	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_556_om_tula  	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_366_om_tula  	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_gold_om_tula	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_krink_762_om_tula	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_krink_545_om_tula	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_chicom_762_om_tula	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_chicom_556_om_tula	unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+		</override>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
 			<value_node value="wpn_fps_ass_ak_stamp_545"/>
