@@ -281,7 +281,6 @@ self:akpack2_setup_variants( "lhg", ak_parts_lhg_ak74, "ak74", ak_variants_hg_ak
 self:akpack2_setup_variants( "uhg", ak_parts_uhg_ak74, "ak74", ak_variants_hg_ak74 )
 self:akpack2_setup_variants( "st", ak_parts_st_ak74, "ak74", ak_variants_st_ak74 )
 
-table.insert(self.wpn_fps_pis_x_stech.uses_parts, "wpn_fps_pis_stech_s_standard")
 --- VG stuff
 for i, vg_id in pairs(ak_parts_vg_univ) do
 	if self.parts[vg_id] then
