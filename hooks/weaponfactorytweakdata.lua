@@ -189,6 +189,12 @@ ak_parts_m_ak74m = {
 	"wpn_fps_ass_ak_krink_545_m_plum_30"
 }
 
+ak_parts_st_ak100 = {
+	"wpn_fps_ass_ak_stamp_545_st_uf_ak74m",
+	"wpn_fps_ass_ak_stamp_556_st_uf_ak101",
+	"wpn_fps_ass_ak_stamp_762_st_uf_ak103"
+}
+
 --=========VARIANTS========--
 
 ak_variants_pg_bake = {
@@ -228,6 +234,13 @@ for _, mag_id in pairs(ak_parts_m_ak74m) do
 	self.parts[mag_id].texture_variants = self.parts[mag_id].texture_variants or {}
 	self.parts[mag_id].texture_variants.slavu = {
 		material_config = "units/mods/weapons/wpn_fps_ass_ak_all_545_mag_pts/wpn_fps_ass_ak_all_545_m_poly_30_slavu"
+	}
+end
+
+for _, st_id in pairs(ak_parts_st_ak100) do
+	self.parts[st_id].texture_variants = self.parts[st_id].texure_variants or {}
+	self.parts[st_id].texture_variants.tiddy = {
+		material_config = "units/mods/weapons/wpn_fps_ass_ak_all_ak100_pts/wpn_fps_ass_ak_all_st_ak100_tiddy"
 	}
 end
 

@@ -122,6 +122,9 @@
 	"bm_w_paint_slavu"		: "Slavu",
 	"bm_w_paint_slavu_desc"	: "A customized magazine used by an operator named Vesna.",
 	
+	"bm_w_paint_tiddy"		: "Tiddy",
+	"bm_w_paint_tiddy_desc"	: "A war bring-back, featuring a decal of a soldier's special someone..",
+	
 	"bm_w_paint_ivan_old"		: "Old",
 	"bm_w_paint_ivan_old_desc"	: "Metal that has rusted from years of storage.",
 	"bm_w_paint_ivan_worn"		: "Worn",

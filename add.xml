@@ -326,6 +326,12 @@
 	
 	<texture 		 path="units/mods/weapons/wpn_fps_ass_ak_all_ak74_pts/ak74_stock_std_nm"/>
 	
+	<!-- AK-100 STOCK -->
+	
+	<df_nm 			 path="units/mods/weapons/wpn_fps_ass_ak_all_ak100_pts/ak100_stock_tiddy"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_ak100_pts/wpn_fps_ass_ak_all_st_ak100_tiddy"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_ak100_pts/wpn_fps_ass_ak_all_st_ak100_tiddy_thq"/>
+	
 	<!-- ICONS -->
 	
 	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_stp_folded"/>
