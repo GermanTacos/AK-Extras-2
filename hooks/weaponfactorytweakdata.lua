@@ -282,6 +282,12 @@ if BeardLib.Utils:FindMod("AKMSU") then
 	table.insert(ak_variants_pg_bake, "akmsu")
 end
 
+if BeardLib.Utils:FindMod("gg_shovel") then
+	self.parts.wpn_fps_ass_ak_all_st_zdann.pcs = {}
+else
+	self.parts.wpn_fps_ass_ak_all_st_zdann.pcs = nil
+end
+
 --=========================--
 --          SETUP          --
 --=========================--
