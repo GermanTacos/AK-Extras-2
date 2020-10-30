@@ -92,6 +92,23 @@ ak_parts_barrel_ext_762x39 = {
 ak_parts_vg_univ = {
 }
 
+ak_parts_sights_univ = {
+	"wpn_fps_upg_o_specter",
+	"wpn_fps_upg_o_aimpoint",
+	"wpn_fps_upg_o_aimpoint_2",
+	"wpn_fps_upg_o_docter",
+	"wpn_fps_upg_o_eotech",
+	"wpn_fps_upg_o_t1micro",
+	"wpn_fps_upg_o_cmore",
+	"wpn_fps_upg_o_acog",
+	"wpn_fps_upg_o_cs",
+	"wpn_fps_upg_o_eotech_xps",
+	"wpn_fps_upg_o_reflex",
+	"wpn_fps_upg_o_rx01",
+	"wpn_fps_upg_o_rx30",
+	"wpn_fps_upg_o_spot"
+}
+
 ak_parts_pg_bake = {
 	"wpn_fps_ass_ak_stamp_762_pg_akm",
 	"wpn_fps_ass_ak_stamp_545_pg_ak74",
@@ -251,6 +268,21 @@ if attach_tables then
 			table.insert(ak_parts_vg_univ, vg_id)
 		end
 	end
+	for _, o_id in pairs(attach_tables.ACOG) do
+		if self.parts[o_id] then
+			table.insert(ak_parts_sights_univ, o_id)
+		end
+	end
+	for _, o_id in pairs(attach_tables.Custom) do
+		if self.parts[o_id] then
+			table.insert(ak_parts_sights_univ, o_id)
+		end
+	end
+	for _, o_id in pairs(attach_tables.Specter) do
+		if self.parts[o_id] then
+			table.insert(ak_parts_sights_univ, o_id)
+		end
+	end	
 end
 
 
@@ -310,5 +342,9 @@ for i, vg_id in pairs(ak_parts_vg_univ) do
 	end
 end
 
+--- Sight Stuff
+for i, o_id in pairs(ak_parts_sights_univ) do
+	self.parts.wpn_fps_ass_ak_all_ro_tt01.override[o_id] = {a_obj = "a_o_tt01"}
+end
 
 end)
