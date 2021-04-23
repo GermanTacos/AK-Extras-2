@@ -156,6 +156,18 @@
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_alpha_pts/wpn_fps_ass_ak_all_md_alpha"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_alpha_pts/wpn_fps_ass_ak_all_sta_alpha"/>
 	
+	<!-- OPR8R -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_opr8r_pts/opr8r_main_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_opr8r_pts/opr8r_mag_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_opr8r_pts/wpn_fps_ass_ak_all_uhg_opr8r"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_opr8r_pts/wpn_fps_ass_ak_all_lhg_opr8r"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_opr8r_pts/wpn_fps_ass_ak_all_fsl_opr8r"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_opr8r_pts/wpn_fps_ass_ak_all_mr_opr8r"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_opr8r_pts/wpn_fps_ass_ak_all_st_opr8r"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_all_opr8r_pts/wpn_fps_ass_ak_all_762_m_opr8r_30"/>
+	
 	<!-- IVAN -->
 	
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_all_ivan_pts/ivan_barrel_std"/>

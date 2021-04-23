@@ -10,6 +10,8 @@
 	"bm_menu_handguard_extra_plural" : "Handguard Extensions",
 	"bm_menu_charging_handle" 		 : "Charging Handle",
 	"bm_menu_charging_handle_plural" : "Charging Handles",
+	"bm_menu_mag_release" 		 	 : "Magazine Release",
+	"bm_menu_mag_release_plural" 	 : "Magazine Releases",
 
 	"bm_wp_wpn_fps_ass_ak_all_stp_folded" : "Folded Stock",
 	
@@ -89,6 +91,12 @@
 	"bm_wp_wpn_fps_ass_ak_all_md_alpha"  : "Bulgarian Four-Piece Flash Hider",
 	"bm_wp_wpn_fps_ass_ak_all_sad_alpha" : "Alpha Stock Adapter",
 	
+	"bm_wp_wpn_fps_ass_ak_all_lhg_opr8r" : "Midwest Industries Extended Picatinny Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_uhg_opr8r" : "Midwest Industries RMR Cut Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_fsl_opr8r" : "Beryl M762 Ambidexterious Fire Selector",
+	"bm_wp_wpn_fps_ass_ak_all_mr_opr8r"  : "Beryl M762 Extended Magazine Release Paddle",
+	"bm_wp_wpn_fps_ass_ak_all_st_opr8r"  : "Hera Arms CQR AK Stock",
+	
 	"bm_wp_wpn_fps_ass_ak_all_lhg_ivan"   : "Ivan Goes To Space Station Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_uhg_ivan"   : "Ivan Goes To Space Station Upper Handguard",
 	"bm_wp_wpn_fps_ass_ak_all_pg_ivan"    : "Ivan Goes To Space Station Pistol Grip",
@@ -110,6 +118,7 @@
 	"bm_wp_wpn_fps_ass_ak_all_762_m_palm_30"   : "30 Round US Palm Magazine",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_banana_30" : "30 Round Banana Magazine",
 	"bm_wp_wpn_fps_ass_ak_all_762_m_guard_30"  : "30 Round Russian Border Guard Magazine",
+	"bm_wp_wpn_fps_ass_ak_all_762_m_opr8r" 	   : "30 Round Arsenal Circle 10 Magazine",
 	
 	"bm_wp_wpn_fps_ass_ak_all_545_m_pmag_30"   : "30 Round Magpul PMAG",
 	"bm_wp_wpn_fps_ass_ak_all_545_m_banana_30" : "30 Round Banana Magazine",
