@@ -339,6 +339,7 @@ if attach_tables then
 			table.insert(ak_parts_sights_univ, o_id)
 		end
 	end	
+	self:cafcw_category_forbid("wpn_fps_ass_ak_stamp_762", "pistol_grip", "wpn_fps_ass_ak_all_st_opr8r", "wpn_fps_ass_ak_stamp_762_pg_akm")
 end
 
 
