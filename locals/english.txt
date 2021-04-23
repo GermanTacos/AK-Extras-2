@@ -10,8 +10,8 @@
 	"bm_menu_handguard_extra_plural" : "Handguard Extensions",
 	"bm_menu_charging_handle" 		 : "Charging Handle",
 	"bm_menu_charging_handle_plural" : "Charging Handles",
-	"bm_menu_mag_release" 		 	 : "Magazine Release",
-	"bm_menu_mag_release_plural" 	 : "Magazine Releases",
+	"bm_menu_magazine_release" 		 : "Magazine Release",
+	"bm_menu_magazine_release_plural" : "Magazine Releases",
 
 	"bm_wp_wpn_fps_ass_ak_all_stp_folded" : "Folded Stock",
 	
